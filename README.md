@@ -24,7 +24,15 @@ Motivated Full-Stack developer with passion for tech, finding enjoyment mainly o
 Creating my second big project called stock-tracker which purpose is to monitor econimical changes, examine publicly listed companies and enable virual paper trading. Aplication is after its first testing, currently with 100 member usage.
 
 ## Where can you reach me? 📫:
-<a href="https://www.linkedin.com/in/eduard-krivanek-714760148/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/eduard-krivanek-714760148/">  
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a href="https://dev.to/krivanek06"> 
+ <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+ </a>
+ <a href="https://www.instagram.com/eduard_krivanek/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+ </a>
+ 
 
 
